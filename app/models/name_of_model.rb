@@ -1,0 +1,2 @@
+class NameOfModel < ApplicationRecord
+end
